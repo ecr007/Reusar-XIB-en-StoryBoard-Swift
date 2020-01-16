@@ -51,3 +51,9 @@ class Head: UIView {
 4 - Ya luego en el storyboard principal arrastramos un view donde queremos que este el reutilizable y le asignamos la clase Head del . swift
 
 Custom class > Class > "Head o nombre de mi .swift del xib"
+
+Fuente:
+
+https://medium.com/@suragch/creating-custom-views-in-ios-for-multiple-reuse-b2307a57d792
+
+https://medium.com/zenchef-tech-and-product/how-to-visualize-reusable-xibs-in-storyboards-using-ibdesignable-c0488c7f525d
